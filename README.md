@@ -383,6 +383,6 @@ This guide covers all the essential steps to confidently deploy your web applica
 
 ## Author Details
 
-* **Name:** Kartikey
+* **Name:** Kartikey Mishra
 * **Guide Created:** August 4, 2025
 * **Location:** Kanpur, Uttar Pradesh, India
